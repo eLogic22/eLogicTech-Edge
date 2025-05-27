@@ -36,3 +36,8 @@ yarn-error.log*
 next-env.d.ts
 /.vs
 /package-lock.json
+
+# Ignore large video files
+public/videos/internal-video.mp4
+public/videos/product engineering services.mp4
+
